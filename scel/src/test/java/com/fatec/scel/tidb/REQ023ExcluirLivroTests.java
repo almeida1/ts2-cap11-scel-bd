@@ -1,4 +1,4 @@
-package com.fatec.scel;
+package com.fatec.scel.tidb;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

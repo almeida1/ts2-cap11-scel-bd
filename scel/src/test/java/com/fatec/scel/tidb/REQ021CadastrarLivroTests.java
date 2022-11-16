@@ -1,4 +1,4 @@
-package com.fatec.scel;
+package com.fatec.scel.tidb;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
